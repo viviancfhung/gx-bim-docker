@@ -1,0 +1,2 @@
+#!/bin/bash
+docker build . --no-cache --rm -t registry.gitlab.com/viviancfhung/gx-bim-docker/gx-bim-360:v1.0.0
